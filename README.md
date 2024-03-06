@@ -56,3 +56,26 @@ The refactoring is performed in alignment with the California Housing dataset ar
 **Dataset**
 
 California Housing Dataset: Utilized within the PyTorch refactored notebook.
+
+**Overview**
+This repository showcases the refactoring of Python code into Jupyter Notebooks, leveraging PyTorch for classification tasks. The provided Python code templates have been transformed into interactive notebooks, each performing classification on distinct datasets - Iris and Lower Back Pain Symptoms.
+
+**Purpose**
+
+The purpose of utilizing PyTorch in this project is to harness its dynamic computational graph and flexibility for effective classification. PyTorch's seamless integration with Jupyter Notebooks provides an ideal environment for data analysis, model development, and interpretation.
+
+**Implementation
+Files**
+
+PyTorch_Refactored_Iris_Classification.ipynb: Jupyter Notebook refactoring the Python code for Iris Classification using PyTorch.
+PyTorch_Refactored_Lower_Back_Pain_Classification.ipynb: Jupyter Notebook for PyTorch Classification on Lower Back Pain Symptoms Dataset.
+
+**Instructions**
+Open the respective Jupyter Notebooks on Google Colab.
+Run each cell in the notebooks sequentially.
+Save and download the notebooks after execution in .ipynb format.
+
+**Datasets**
+
+Iris Dataset: Utilized within the PyTorch refactored Iris Classification notebook.
+Lower Back Pain Symptoms Dataset: Used in the PyTorch Classification notebook for identifying abnormal or normal cases based on physical spine details.
