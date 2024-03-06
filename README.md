@@ -57,7 +57,7 @@ The refactoring is performed in alignment with the California Housing dataset ar
 
 California Housing Dataset: Utilized within the PyTorch refactored notebook.
 
-**Classification with PyTorch**
+**3. Classification with PyTorch**
 
 **Overview**
 
