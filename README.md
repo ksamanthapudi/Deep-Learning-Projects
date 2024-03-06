@@ -24,3 +24,35 @@ This repository includes the implementation of a project using Multi-Layer Perce
 2. Iris Dataset: Embedded within the MLP Classification notebook.
 3. Housing Dataset : Embedded within the MLP Regression notebook.
 4. Data Spine: Embedded within the MLP Classification notebook.
+
+
+
+**2. PyTorch Refactoring Project: California Housing Dataset**
+
+**Overview**
+
+This repository presents the refactoring of Python code into a Jupyter Notebook, utilizing PyTorch for analysis. The provided Python code template has been transformed into an interactive and visually appealing format.
+
+**Purpose**
+
+The primary objective of using PyTorch for this project is to leverage its flexibility and dynamic computational graph, making it well-suited for machine learning tasks. PyTorch's popularity in the deep learning community and its seamless integration with Jupyter Notebooks offer an excellent environment for data analysis and model development.
+
+**Implementation**
+
+**Files**
+
+PyTorch_Refactored_California_Housing.ipynb: Jupyter Notebook refactoring the provided Python code using PyTorch.
+
+**Instructions**
+
+Open the Jupyter Notebook on Google Colab.
+Run each cell in the notebook sequentially.
+Save and download the notebook after execution.
+
+**Article Reference**
+
+The refactoring is performed in alignment with the California Housing dataset article, enhancing code readability and maintainability.
+
+**Dataset**
+
+California Housing Dataset: Utilized within the PyTorch refactored notebook.
